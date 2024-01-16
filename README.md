@@ -1,12 +1,19 @@
-Projeto Angular Moments
+# Projeto Angular Moments
 Bem-vindo ao repositório do projeto Angular Moments! Este é um projeto voltado para o aprendizado, composto por um back-end e uma API que foram desenvolvidos por mim. Você pode encontrar a parte referente à API no seguinte link: https://github.com/zMarcio/API-Adonisjs.
 
-Objetivo
+# Objetivo
 O principal propósito deste projeto é adquirir conhecimento prático em desenvolvimento, sendo conduzido com o auxílio de um instrutor que me orientou ao longo do processo.
 
-Tecnologias Utilizadas
+# Tecnologias Utilizadas
 Angular
 Adonis.js
+
+# Linguagem Utilizada
+Typescript
+Javascript
+
+![image](https://github.com/zMarcio/Angular-Moments/assets/113918441/d9d08fb8-f539-42c8-bc5e-5193997450e9)
+
 
 # Moments
 
