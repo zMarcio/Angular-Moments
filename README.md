@@ -1,8 +1,35 @@
 # Projeto Angular Moments
 Bem-vindo ao repositório do projeto Angular Moments! Este é um projeto voltado para o aprendizado, composto por um back-end e uma API que foram desenvolvidos por mim. Você pode encontrar a parte referente à API no seguinte link: https://github.com/zMarcio/API-Adonisjs.
 
-# Objetivo
-O principal propósito deste projeto é adquirir conhecimento prático em desenvolvimento, sendo conduzido com o auxílio de um instrutor que me orientou ao longo do processo.
+## Objetivo
+O principal propósito deste projeto é adquirir conhecimento prático em desenvolvimento, sendo conduzido com o auxílio de um instrutor que me orientou ao longo do processo. O projeto consiste em criar uma aplicação que o usuário possa **COMPARTILHAR** seus momentos com outros usuários. O projeto contém um back-end para ele, link: https://github.com/zMarcio/API-Adonisjs 
+
+### End Points, do back-end:
+![image](https://github.com/zMarcio/Angular-Moments/assets/113918441/c8a941d7-42f9-4118-b74f-5ea492528cad)
+
+### Algumas Páginas:
+
+**Home sem Posts:**
+![Moments-HomeNoMoments](https://github.com/zMarcio/Angular-Moments/assets/113918441/90614807-dcbf-4afc-a152-b8c94dcb89a8)
+
+**Sobre:**
+![Moments-Sobre](https://github.com/zMarcio/Angular-Moments/assets/113918441/193ad88f-313f-4c7c-a666-201ac38b7d45)
+
+**Home com Posts:**
+![Moments-Home](https://github.com/zMarcio/Angular-Moments/assets/113918441/92c62cb7-d4b3-4df5-aa68-993a35f4066c)
+
+**Compartilhar:**
+![Moments-Compartilhar](https://github.com/zMarcio/Angular-Moments/assets/113918441/39851d36-93f4-4520-9de5-c6e4f0567a9e)
+
+**Home pós Compartilhamento:**
+![Moments-HomeResultShared](https://github.com/zMarcio/Angular-Moments/assets/113918441/71bffa66-d8b9-4f66-8fbc-6982d206e845)
+
+**Detalhe, Adicionando Comentário:**
+![Moments-Comentário adicionado](https://github.com/zMarcio/Angular-Moments/assets/113918441/0f24d1bd-885f-4a82-a87c-01647a700d47)
+
+**Home pós Comentário:**
+![Moments-Comentário1](https://github.com/zMarcio/Angular-Moments/assets/113918441/21422b23-b5b7-4966-8efc-f2b727827dd3)
+
 
 # Tecnologias Utilizadas
 Angular
