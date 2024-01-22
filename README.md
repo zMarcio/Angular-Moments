@@ -35,12 +35,12 @@ O principal propósito deste projeto é adquirir conhecimento prático em desenv
 
 
 # Tecnologias Utilizadas
-Angular
-Adonis.js
+ - **Angular**
+ - **Adonis.js**
 
 # Linguagem Utilizada
-**Typescript**
-**Javascript**
+ - **Typescript**
+ - **Javascript**
 
 # Moments
 
