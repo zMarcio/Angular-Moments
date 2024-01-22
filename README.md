@@ -5,7 +5,7 @@ Bem-vindo ao repositório do projeto Angular Moments! Este é um projeto voltado
 
 
 ## Objetivo
-O principal propósito deste projeto é adquirir conhecimento prático em desenvolvimento, criando uma aplicação que consiste em criar uma aplicação que os usuário possam **Compartilhar** seus **Momentos** com outros usuários. O projeto contém um back-end, link: https://github.com/zMarcio/API-Adonisjs, abaixo contém algumas imagens que explica como a aplicação funciona 
+O principal propósito deste projeto é adquirir conhecimento prático em desenvolvimento, criando uma aplicação que consiste em criar uma aplicação que os usuário possam **Compartilhar** seus **Momentos** com outros usuários. O projeto contém um back-end, link: https://github.com/zMarcio/API-Adonisjs, abaixo contém algumas imagens que explica como a aplicação funciona.
 
 ## End Points, do back-end:
 ![image](https://github.com/zMarcio/Angular-Moments/assets/113918441/c8a941d7-42f9-4118-b74f-5ea492528cad)
